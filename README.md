@@ -40,7 +40,7 @@ As MCoT provides a new pathway for exploring advanced reasoning abilities, we wi
 ## 🔥 Update
 
 - [06/03/2025]🔥We release the [code](https://github.com/ZNLP/Markov-Chain-of-Thought) for Markov Chain of Thought!
-- [23/01/2025]🎉MCoT has accepted by the NAACL 2025 main conference! 
+- [23/01/2025]🎉MCoT has been accepted by the NAACL 2025 main conference! 
 - [23/10/2024]🔥Markov Chain of Thought is coming! We release the [paper](https://arxiv.org/abs/2410.17635)!
 
 ## 📃 Contents
