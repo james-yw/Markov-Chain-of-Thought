@@ -144,7 +144,7 @@ If you find this repo useful for your research, please consider citing the paper
 ```
 @article{yang2024markov,
   title={Markov Chain of Thought for Efficient Mathematical Reasoning},
-  author={Yang, Wen and Liao, Minpeng and Fan, Kai},
+  author={Yang, Wen and Fan, Kai and Liao, Minpeng},
   journal={arXiv preprint arXiv:2410.17635},
   year={2024}
 }
