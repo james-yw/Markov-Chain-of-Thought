@@ -1,0 +1,15 @@
+backoff==2.2.1
+dashscope==1.22.2
+numpy==2.2.3
+openai==1.65.5
+Pebble==5.1.0
+pydantic==2.10.6
+pytest==8.3.5
+Requests==2.32.3
+setuptools==75.1.0
+sympy==1.12
+termcolor==2.5.0
+timeout_decorator==0.5.0
+torch==2.4.0+cu118
+tqdm==4.66.5
+vllm==0.6.1.post1+cu118
