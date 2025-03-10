@@ -96,7 +96,14 @@ bash scripts/batch_inference_msr.sh
 ```
 
 ## ✅ Evaluation
- 
+
++ Install MARIO_EVAL Library
+```
+cd MARIO_EVAL
+cd latex2sympy && pip install . && cd ..
+pip install -e .
+```
++ Evaluation
 ```bash
 bash scripts/evaluate.sh
 ```
